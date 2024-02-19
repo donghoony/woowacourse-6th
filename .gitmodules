@@ -13,3 +13,6 @@
 [submodule "precourse/final-oncall"]
 	path = precourse/final-oncall
 	url = https://github.com/donghoony/precourse-6th-final-oncall
+[submodule "woowacourse/level-1-1-racingcar"]
+	path = woowacourse/level-1-1-racingcar
+	url = https://github.com/donghoony/woowacourse-level-1-racingcar
