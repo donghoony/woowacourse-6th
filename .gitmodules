@@ -1,0 +1,15 @@
+[submodule "precourse/week-1-baseball"]
+	path = precourse/week-1-baseball
+	url = https://github.com/donghoony/precourse-6th-baseball
+[submodule "precourse/week-2-racingcar"]
+	path = precourse/week-2-racingcar
+	url = https://github.com/donghoony/precourse-6th-racingcar
+[submodule "precourse/week-3-lotto"]
+	path = precourse/week-3-lotto
+	url = https://github.com/donghoony/precourse-6th-lotto
+[submodule "precourse/week-4-christmas"]
+	path = precourse/week-4-christmas
+	url = https://github.com/donghoony/precourse-6th-christmas
+[submodule "precourse/final-oncall"]
+	path = precourse/final-oncall
+	url = https://github.com/donghoony/precourse-6th-final-oncall
