@@ -1,21 +1,28 @@
 [submodule "precourse/week-1-baseball"]
 	path = precourse/week-1-baseball
 	url = https://github.com/donghoony/precourse-6th-baseball
+    branch = donghoony
 [submodule "precourse/week-2-racingcar"]
 	path = precourse/week-2-racingcar
 	url = https://github.com/donghoony/precourse-6th-racingcar
+    branch = donghoony
 [submodule "precourse/week-3-lotto"]
 	path = precourse/week-3-lotto
 	url = https://github.com/donghoony/precourse-6th-lotto
+    branch = donghoony
 [submodule "precourse/week-4-christmas"]
 	path = precourse/week-4-christmas
 	url = https://github.com/donghoony/precourse-6th-christmas
+    branch = main
 [submodule "precourse/final-oncall"]
 	path = precourse/final-oncall
 	url = https://github.com/donghoony/precourse-6th-final-oncall
+    branch = main
 [submodule "woowacourse/level-1-1-racingcar"]
 	path = woowacourse/level-1-1-racingcar
 	url = https://github.com/donghoony/woowacourse-level-1-racingcar
+    branch = donghoony-step-2
 [submodule "woowacourse/web-introduction"]
 	path = woowacourse/web-introduction
 	url = https://github.com/donghoony/woowacourse-web-introduction
+    branch = donghoony
