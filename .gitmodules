@@ -16,3 +16,6 @@
 [submodule "woowacourse/level-1-1-racingcar"]
 	path = woowacourse/level-1-1-racingcar
 	url = https://github.com/donghoony/woowacourse-level-1-racingcar
+[submodule "woowacourse/web-introduction"]
+	path = woowacourse/web-introduction
+	url = https://github.com/donghoony/woowacourse-web-introduction
