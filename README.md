@@ -2,6 +2,8 @@
 우아한테크코스 6기 백엔드 기록
 
 ```
-git submodule add {git url} {path}
+git clone https://github.com/donghoony/woowacourse-6th-archive/
+git submodule update
 git submodule foreach git pull
+git submodule add {git url} {path}
 ```
