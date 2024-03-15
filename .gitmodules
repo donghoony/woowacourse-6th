@@ -26,3 +26,11 @@
 	path = woowacourse/web-introduction
 	url = https://github.com/donghoony/woowacourse-web-introduction
     branch = donghoony
+[submodule "woowacourse/level-1-3-blackjack"]
+	path = woowacourse/level-1-3-blackjack
+	url = https://github.com/donghoony/woowacourse-level-1-blackjack
+	branch = step-2
+[submodule "woowacourse/level-1-2-ladder"]
+	path = woowacourse/level-1-2-ladder
+	url = https://github.com/donghoony/woowacourse-level-1-ladder
+	branch = step-2
