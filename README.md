@@ -3,6 +3,7 @@
 
 ```
 git clone https://github.com/donghoony/woowacourse-6th-archive/
+git submodule init
 git submodule update
 git submodule foreach git pull
 git submodule (-b {branch}) add {git url} {path}
