@@ -6,5 +6,5 @@ git clone https://github.com/donghoony/woowacourse-6th-archive/
 git submodule init
 git submodule update
 git submodule foreach git pull
-git submodule [-b {branch-name}] add {repository-url} {path}
+git submodule add [-b {branch-name}] {repository-url} {path}
 ```
