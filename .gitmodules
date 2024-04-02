@@ -34,3 +34,7 @@
 	path = woowacourse/level-1-2-ladder
 	url = https://github.com/donghoony/woowacourse-level-1-ladder
 	branch = step-2
+[submodule "woowacourse/level-1-4-chess"]
+	path = woowacourse/level-1-4-chess
+	url = https://github.com/donghoony/woowacourse-level-1-chess/
+	branch = step4
